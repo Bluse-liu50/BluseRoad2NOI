@@ -4,4 +4,5 @@
 [个人LUOGU](https://www.luogu.com.cn/user/601999)
 
 ## TODO
-P1280尼克的任务 DP/线性DP
+P1280尼克的任务 DP\线性DP
+CSP订正 Contest\220715CSP模拟
